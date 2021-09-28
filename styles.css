@@ -93,7 +93,7 @@ Card Statistics
       hsla(277, 90%, 50%, 0.4),
       hsla(277, 90%, 50%, 0.4)
     ),
-    url(images/image-header-desktop.jpg);
+    url(/images/image-header-desktop.jpg);
   background-size: cover;
   object-fit: fill;
   max-width: 100%;
