@@ -17,12 +17,9 @@ font-family: 'Lexend Deca', sans-serif;
 */
 
 .card-container {
-  margin: 8rem auto;
-  /* width: 75%; */
+  margin: 11rem auto;
   max-width: 1110px;
   display: flex;
-  flex-direction: row;
-  /* justify-content: flex-start; */
 }
 
 @media screen and (max-width: 1000px) {
@@ -37,7 +34,7 @@ font-family: 'Lexend Deca', sans-serif;
 
 .card-column-1 {
   background-color: #1b1937;
-  flex-basis: 51%;
+  flex-basis: 50.5%;
   overflow: hidden;
   padding: 6rem 0 6rem 5rem;
   border-top-left-radius: 8px;
@@ -170,6 +167,7 @@ Card Statistics
   text-transform: uppercase;
   letter-spacing: 1px;
   color: hsla(0, 0%, 100%, 0.75);
+  font-size: 1.2rem;
 }
 
 .card-column-2 {
@@ -184,7 +182,7 @@ Card Statistics
   max-width: 100%;
   max-height: 100%;
   overflow: hidden;
-  flex-basis: 49%;
+  flex-basis: 49.5%;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
 }
