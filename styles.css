@@ -34,7 +34,7 @@ font-family: 'Lexend Deca', sans-serif;
 
 .card-column-1 {
   background-color: #1b1937;
-  flex-basis: 50.5%;
+  flex-basis: 51%;
   overflow: hidden;
   padding: 6rem 0 6rem 5rem;
   border-top-left-radius: 8px;
@@ -182,7 +182,7 @@ Card Statistics
   max-width: 100%;
   max-height: 100%;
   overflow: hidden;
-  flex-basis: 49.5%;
+  flex-basis: 49%;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
 }
